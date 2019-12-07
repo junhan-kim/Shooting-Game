@@ -1,0 +1,20 @@
+C:\Users\junhan\source\repos\_Game\_Game\bin\Debug\_Game.exe.config
+C:\Users\junhan\source\repos\_Game\_Game\bin\Debug\_Game.exe
+C:\Users\junhan\source\repos\_Game\_Game\bin\Debug\_Game.pdb
+C:\Users\junhan\source\repos\_Game\_Game\obj\Debug\_Game.csprojResolveAssemblyReference.cache
+C:\Users\junhan\source\repos\_Game\_Game\obj\Debug\_Game.Properties.Resources.resources
+C:\Users\junhan\source\repos\_Game\_Game\obj\Debug\_Game.csproj.GenerateResource.cache
+C:\Users\junhan\source\repos\_Game\_Game\obj\Debug\_Game.csproj.CoreCompileInputs.cache
+C:\Users\junhan\source\repos\_Game\_Game\obj\Debug\_Game.exe
+C:\Users\junhan\source\repos\_Game\_Game\obj\Debug\_Game.pdb
+C:\Users\junhan\source\repos\_Game\_Game\obj\Debug\_Game.MyForm.resources
+C:\Users\junhan\source\repos\Shooting Game\_Game\bin\Debug\_Game.exe.config
+C:\Users\junhan\source\repos\Shooting Game\_Game\bin\Debug\_Game.exe
+C:\Users\junhan\source\repos\Shooting Game\_Game\bin\Debug\_Game.pdb
+C:\Users\junhan\source\repos\Shooting Game\_Game\obj\Debug\_Game.csprojResolveAssemblyReference.cache
+C:\Users\junhan\source\repos\Shooting Game\_Game\obj\Debug\_Game.MyForm.resources
+C:\Users\junhan\source\repos\Shooting Game\_Game\obj\Debug\_Game.Properties.Resources.resources
+C:\Users\junhan\source\repos\Shooting Game\_Game\obj\Debug\_Game.csproj.GenerateResource.cache
+C:\Users\junhan\source\repos\Shooting Game\_Game\obj\Debug\_Game.csproj.CoreCompileInputs.cache
+C:\Users\junhan\source\repos\Shooting Game\_Game\obj\Debug\_Game.exe
+C:\Users\junhan\source\repos\Shooting Game\_Game\obj\Debug\_Game.pdb
